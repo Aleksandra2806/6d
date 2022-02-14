@@ -1,0 +1,16 @@
+.star { 
+  background: url(star0.png);
+  width: 75px; 
+  height: 78px;
+  float: right;
+  margin-right: 5px;
+}
+.star:hover,
+.star:hover ~ .star { 
+  background: url(star1.png);
+}
+
+
+
+
+        
