@@ -1,9 +1,9 @@
 .star { 
   background: url(star0.png);
-  width: 75px; 
+  width: 70px; 
   height: 78px;
   float: right;
-  margin-right: 5px;
+  padding-right: 5px;
 }
 .star:hover,
 .star:hover ~ .star { 
